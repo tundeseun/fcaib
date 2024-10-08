@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\infix\Modules/MenuManage\Resources/views/menu/sidebar.blade.php ENDPATH**/ ?>

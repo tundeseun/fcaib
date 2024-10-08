@@ -1,0 +1,1 @@
+<?php /**PATH /home2/fcaibedu/public_html/portal/Modules/MenuManage/Resources/views/menu/sidebar.blade.php ENDPATH**/ ?>
